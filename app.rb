@@ -16,9 +16,7 @@ end
 post '/' do
   begin
 
-    unless params[:file] &&
-        (tmpfile = params[:file][:tempfile]) &&
-        (name = params[:file][:filename])
+    unless params[:file] && (tmpfile = params[:file][:tempfile])
       status 200
     end
 
@@ -28,10 +26,10 @@ post '/' do
     end
 
     content_type 'application/csv'
-    attachment "output.csv"
+    attachment 'output.csv'
 
     CSV.generate do |csv|
-      csv << %w(Company,URL,Industry,Sub-Industry,City)
+      csv << %w(Company URL Industry Sub-Industry City)
       output.each { |row| csv << row }
     end
 
