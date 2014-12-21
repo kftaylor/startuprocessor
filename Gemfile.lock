@@ -28,4 +28,4 @@ PLATFORMS
 
 DEPENDENCIES
   rspec
-  sinatra
+  sinatra (= 1.4.5)
