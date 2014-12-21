@@ -1,0 +1,315 @@
+---
+Accounting & Finance:
+  :industry: Fin-Tech
+  :subindustry: Business Tools
+Adult Entertainment:
+  :industry: 
+  :subindustry: 
+Advertising Network or Exchange:
+  :industry: 
+  :subindustry: Ad-Tech
+Advertising, Sales & Marketing:
+  :industry: 
+  :subindustry:
+    - Ad-Tech
+    - Sales & Marketing
+Apparel & Accessories:
+  :industry: 
+  :subindustry: Consumer
+Application & Data Integration:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Application Development:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Asset & Financial Management & Trading:
+  :industry: Fin-Tech
+  :subindustry: 
+Auction & Classifieds:
+  :industry: Marketplaces
+  :subindustry: 
+Auto:
+  :industry: 
+  :subindustry: 
+B2B Commerce:
+  :industry: 
+  :subindustry: B2B
+Billing, Expense Management and Procurement:
+  :industry: 
+  :subindustry: Business Tools
+Browser Software / Plugins:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Browser Software/Plugins:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Business Intelligence, Analytics & Performance Mgmt:
+  :industry: 
+  :subindustry:
+    - Business Tools
+    - Data & Analytics
+Cable & Satellite:
+  :industry: 
+  :subindustry: 
+Collaboration & Project Management:
+  :industry: 
+  :subindustry: Business Tools
+Comparison Shopping:
+  :industry: 
+  :subindustry: 
+Compliance:
+  :industry: 
+  :subindustry: Business Tools
+Computer & Software:
+  :industry: 
+  :subindustry: 
+Conferencing & Communication:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Content Management:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Customer Relationship Management:
+  :industry: SaaS
+  :subindustry: Business Tools
+Data & Broadband:
+  :industry: 
+  :subindustry: 
+Data & Document Management:
+  :industry: SaaS
+  :subindustry: Business Tools
+Data Storage:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools, Data & Analytics
+Data Storage & Security:
+  :industry: 
+  :subindustry:
+    - Infrastructure/Dev Tools
+    - Security
+    - Data & Analytics
+Database Management:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Digital Goods:
+  :industry: 
+  :subindustry: 
+Discount:
+  :industry: 
+  :subindustry: 
+Diversified & Bundled:
+  :industry: 
+  :subindustry: 
+Domain & SEO Services:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+eCommerce enablement:
+  :industry: 
+  :subindustry: 
+Education & Training:
+  :industry: Education
+  :subindustry: 
+Electronics & Appliances:
+  :industry: 
+  :subindustry: 
+Email:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Events & Ticketing:
+  :industry: 
+  :subindustry: 
+Fixed Line Voice:
+  :industry: 
+  :subindustry: 
+Food & Grocery:
+  :industry: 
+  :subindustry: 
+Gambling:
+  :industry: Gaming
+  :subindustry: 
+Gaming:
+  :industry: Gaming
+  :subindustry: 
+Gasoline:
+  :industry: 
+  :subindustry: 
+Government:
+  :industry: SaaS
+  :subindustry: 
+Green/Environmental:
+  :industry: Clean-Tech/Energy
+  :subindustry: 
+Health & Wellness:
+  :industry: Healthcare
+  :subindustry: 
+Healthcare:
+  :industry: Healthcare
+  :subindustry: 
+Home Furnishings & Improvement:
+  :industry: 
+  :subindustry: 
+HR & Workforce Management:
+  :industry: SaaS
+  :subindustry: Business Tools
+Information Providers & Portals:
+  :industry: 
+  :subindustry: Information Provider
+Infrastructure & Hosting:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Internet Service Provider:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+IT Management & Helpdesk:
+  :industry: 
+  :subindustry: 
+IT Solutions & Software Development:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Jewelry:
+  :industry: Consumer
+  :subindustry: 
+Legal:
+  :industry: SaaS
+  :subindustry: 
+Location-Based & Navigation:
+  :industry: 
+  :subindustry: Transportation & Logistics
+Manufacturing, Warehousing & Industrial:
+  :industry: 
+  :subindustry: B2B
+Marketplace:
+  :industry: 
+  :subindustry: Marketplace
+Mobile Commerce enablement:
+  :industry: 
+  :subindustry: 
+Monitoring & Security:
+  :industry: 
+  :subindustry:
+    - Security
+    - Video
+Multi-Product:
+  :industry: 
+  :subindustry: 
+Multimedia & Graphics:
+  :industry: Digital Media
+  :subindustry: 
+Music:
+  :industry: Digital Media
+  :subindustry: 
+Music, Video, Books & Entertainment:
+  :industry: Digital Media
+  :subindustry: 
+Networking:
+  :industry: Networking/Social
+  :subindustry: 
+Networking & Connectivity:
+  :industry: Networking/Social
+  :subindustry: 
+News & Discussion:
+  :industry: Digital Media
+  :subindustry: 
+Office Products:
+  :industry: 
+  :subindustry: B2B
+Operating Systems & Utility:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Other Retail:
+  :industry: 
+  :subindustry: 
+Payments:
+  :industry: Fin-Tech
+  :subindustry: 
+Personal & Professional Development:
+  :industry: 
+  :subindustry: 
+Pharmacies:
+  :industry: Healthcare
+  :subindustry: 
+Photo:
+  :industry: Networks/Social
+  :subindustry: 
+Real Estate:
+  :industry: Fin-Tech
+  :subindustry: 
+Retail & Inventory:
+  :industry: 
+  :subindustry:
+    - B2B
+    - Business Tools
+Satellite & Broadcast Network Equipment:
+  :industry: 
+  :subindustry: 
+Scientific, Engineering:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Search:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Security:
+  :industry: 
+  :subindustry: Security
+Social:
+  :industry: Networking/Social
+  :subindustry: 
+Sporting Goods:
+  :industry: 
+  :subindustry: Consumer
+Sports:
+  :industry: 
+  :subindustry: Consumer
+Storage & Systems Management:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Supply Chain & Logistics:
+  :industry: 
+  :subindustry: Transportation/Logistics
+Telecom Equipment Distribution & Maintenance:
+  :industry: 
+  :subindustry: 
+Testing:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
+Toys & Games:
+  :industry: Gaming
+  :subindustry: 
+Travel:
+  :industry: 
+  :subindustry: Transportation/Logistics
+Travel (internet):
+  :industry: 
+  :subindustry: Transportation/Logistics
+Travel (mobile):
+  :industry: 
+  :subindustry: Transportation/Logistics
+Video:
+  :industry: Digital Media
+  :subindustry: Video
+Video Conferencing:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
+Virtualization:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+VoIP:
+  :industry: 
+  :subindustry: 
+Web Design & Development:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Web Development:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Website hosting:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
+Wireless:
+  :industry: 
+  :subindustry: 
+Wireless Telecom Equipment:
+  :industry: 
+  :subindustry: 
+Wireline Telecom Equipment:
+  :industry: 
+  :subindustry: 

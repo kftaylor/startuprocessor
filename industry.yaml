@@ -1,0 +1,153 @@
+---
+Accounting:
+  :industry: Fin-Tech
+  :subindustry: Business Tools
+Accounting & Finance Software:
+  :industry: Fin-Tech
+  :subindustry: Business Tools
+Advertising, Sales & Marketing:
+  :industry: SaaS
+  :subindustry:
+    - Ad-Tech
+    - Sales & Marketing
+Application & Data Integration Software:
+  :industry: SaaS
+  :subindustry: Data & Analytics
+Asset & Financial Management & Trading Software:
+  :industry: Fin-Tech
+  :subindustry: 
+Asset/Financial Management:
+  :industry: Fin-Tech
+  :subindustry: 
+Billing, Expense Management and Procurement Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Business Intelligence, Analytics & Performance Mgmt Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Collaboration & Project Management Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Compliance:
+  :industry: SaaS
+  :subindustry: Business Tools
+Conferencing & Communication Software:
+  :industry: Networking/Social
+  :subindustry: Infrastructure/Dev Tools
+Content Management Software:
+  :industry: Networking/Social
+  :subindustry: Infrastructure/Dev Tools
+Customer Relationship Management Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Data & Document Management Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Database Management Software:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
+eCommerce:
+  :industry: eCommerce
+  :subindustry: 
+Education & Training Software:
+  :industry: Education
+  :subindustry: 
+Email:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Film & Video:
+  :industry: Digital Media
+  :subindustry: Video
+Financial Services Software:
+  :industry: Fin-Tech
+  :subindustry: 
+Gaming:
+  :industry: Gaming
+  :subindustry: 
+Government Software:
+  :industry: SaaS
+  :subindustry: 
+Green/Environmental Software:
+  :industry: Clean-Tech
+  :subindustry: 
+Healthcare Software:
+  :industry: Healthcare
+  :subindustry: 
+HR & Workforce Management Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+Internet Software & Services:
+  :industry: 
+  :subindustry: 
+IT Services:
+  :industry: 
+  :subindustry: 
+Legal Software:
+  :industry: SaaS
+  :subindustry: 
+Lending:
+  :industry: Fin-Tech
+  :subindustry: 
+Manufacturing, Warehousing & Industrial Software:
+  :industry: SaaS
+  :subindustry: 
+Mobile Commerce:
+  :industry: eCommerce
+  :subindustry: Mobile
+Mobile Software & Services:
+  :industry: 
+  :subindustry: Mobile
+Multimedia & Graphics:
+  :industry: Digital Media
+  :subindustry: 
+Music:
+  :industry: Digital Media
+  :subindustry: 
+Networking & Connectivity Software:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Operating Systems & Utility Software:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Publishing:
+  :industry: Digital Media
+  :subindustry: 
+Radio:
+  :industry: Digital Media
+  :subindustry: 
+Retail & Inventory Software:
+  :industry: SaaS
+  :subindustry: Business Tools
+RFID Systems:
+  :industry: Hardware
+  :subindustry: 
+Sales & Marketing Software:
+  :industry: SaaS
+  :subindustry: Sales & Marketing
+Scientific, Engineering Software:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Security Software:
+  :industry: SaaS
+  :subindustry: Security
+Stealth Mode:
+  :industry: 
+  :subindustry: 
+Storage & Systems Management Software:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
+Supply Chain & Logistics Software:
+  :industry: SaaS
+  :subindustry: Transportation/Logistics
+Telecom Devices & Equipment:
+  :industry: Hardware
+  :subindustry: 
+Telecom Services:
+  :industry: 
+  :subindustry: Infrastructure/Dev Tools
+Television:
+  :industry: Digital Media
+  :subindustry: Video
+Testing:
+  :industry: SaaS
+  :subindustry: Infrastructure/Dev Tools
