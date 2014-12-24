@@ -1,13 +1,112 @@
-<html>
-<head>
-  <title>CSV Upload</title>
-</head>
-<body>
-<h1>Upload CSV</h1>
+<!doctype html>
 
-<form action="" method="POST" enctype="multipart/form-data">
-  <input type="file" name="file">
-  <input type="submit" value="Upload CSV">
-</form>
+<html>
+
+<head>
+  <title>Jumbotron</title>
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script type="text/javascript" src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <style type="text/css">
+    body {
+      padding-top: 50px;
+      padding-bottom: 20px;
+    }
+    label.uploadbutton input {
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+<div class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#">Upfront Apps</a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="active">
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#contact">Contact</a>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-right">
+        <div class="form-group">
+          <div class="drag-mask" data-ds-form="text_field" style="width: 181px; height: 34px;"></div>
+        </div>
+        <div class="form-group">
+          <div class="drag-mask" data-ds-form="text_field" style="width: 181px; height: 34px;"></div>
+        </div>
+      </form>
+    </div>
+    <!--/.navbar-collapse -->
+  </div>
+</div>
+<!-- Main jumbotron for a primary marketing message or call to action -->
+<div class="jumbotron">
+  <div class="container">
+    <img src="http://i.imgur.com/2eaQNiq.png?1">
+    <h1></h1>
+    <h2>CSV Startup Industry Mapping</h2>
+    <p style>This app was created to convert industry tags of LA based startups exported from CBinsights.</p>
+    <p style>The app ingests a CBinsights CSV and uses a YAML map to reassign industries and sectors. The output file is meant for Import to RelateIQ. The YAML industry map is in root. To edit YAML file <a href="http://macromates.com/">TextMate</a> or equivalent text editor is required.</p>
+    <p></p>
+    <p></p>
+    <p style></p>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h3>Instructions</h3>
+      <ol>
+        <li>Download CSV from <a href="cbinsights.com">CBinsights</a>
+        </li>
+        <li>Ensure CSV is formatted as such: &nbsp;<img src="http://i.imgur.com/5u0ML79.png" width="300" height="24">&nbsp;</li>
+        <li>Upload</li>
+      </ol>
+
+      <form action method="POST" enctype="multipart/form-data">
+        <label class="uploadbutton">
+          <input type="file" name="file">
+          <a class="btn btn-primary">Choose File</a>
+        </label>
+
+        <input class="btn btn-success" type="submit" value="Upload">
+
+      </form>
+    </div>
+    <div class="col-md-4">
+      <h2>Files</h2>
+      <p>Click to view application files.</p>
+      <a class="btn btn-default" href="#">View Files &raquo;</a>
+    </div>
+  </div>
+  <!-- Example row of columns -->
+  <div class="row">
+    <div class="col-lg-4">
+      <p></p>
+    </div>
+    <div class="col-lg-4">
+      <p></p>
+    </div>
+    <div class="col-lg-4">
+      <p></p>
+    </div>
+  </div>
+  <hr>
+  <footer>
+    <p>&copy; Upfront Ventures 2015</p>
+  </footer>
+</div>
+<!-- /container -->
 </body>
+
 </html>
